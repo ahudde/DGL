@@ -1,6 +1,6 @@
 # Lineare Differentialgleichung zweiter Ordnung [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahudde/DGL/HEAD?labpath=DGL.ipynb)
 
-![newplot](https://user-images.githubusercontent.com/60978072/150697749-3bf39092-d7b7-4ff3-8c2b-a50b096422bb.png)
+![Screenshot 2023-10-18 183051](https://github.com/ahudde/DGL/assets/60978072/9f10ac13-d499-4fb4-903d-d209bf730286)
 
 Dieses Notebook visualisiert die Lösung der Schwingungsgleichung des Federpendels in einem interaktiven Plot.
 Zudem wird erklärt, wie sich das Python-Paket `SciPy` nutzen lässt, um exakte LÖsungen von Differentiagleichungn zu finden.
