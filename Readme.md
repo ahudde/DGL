@@ -1,4 +1,4 @@
-# Lineare Differentialgleichung zweiter Ordnung [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahudde/DGL/HEAD?labpath=DGL.ipynb)
+# Lineare Differentialgleichungen zweiter Ordnung [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ahudde/DGL/HEAD?labpath=DGL.ipynb)
 
 ![Screenshot 2023-10-18 183051](https://github.com/ahudde/DGL/assets/60978072/9f10ac13-d499-4fb4-903d-d209bf730286)
 
